@@ -4,7 +4,7 @@
     "title": "Skyline Runner",
     "category": "Movies",
     "description": "A courier races across a neon city to deliver a package before sunrise.",
-    "poster": "/posters/movie1.jpg",
+    "poster": "/posters/skyline.jpg",
     "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
@@ -12,7 +12,7 @@
     "title": "The Last Lighthouse",
     "category": "Movies",
     "description": "A keeper on a remote island discovers the light is guiding something besides ships.",
-    "poster": "/posters/movie2.jpg",
+    "poster": "/posters/theLastLighthouse.jpg",
     "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Desert Echoes",
     "category": "Movies",
     "description": "Two strangers cross the desert together and uncover a decades-old secret.",
-    "poster": "/posters/movie3.jpg",
+    "poster": "/posters/desertEchos.png",
     "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Office Orbit",
     "category": "TV",
     "description": "A comedy about a startup team that accidentally relocates to a space station.",
-    "poster": "/posters/tv1.jpg",
+    "poster": "/posters/officeOrbit.jpg",
     "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Cold Case Cafe",
     "category": "TV",
     "description": "A retired detective solves mysteries from the corner table of a small-town cafe.",
-    "poster": "/posters/tv2.jpg",
+    "poster": "/posters/coldCaseCafe.jpg",
     "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
@@ -44,7 +44,7 @@
     "title": "Wild Planet Weekly",
     "category": "TV",
     "description": "A documentary series exploring remarkable animals and the places they call home.",
-    "poster": "/posters/tv3.jpg",
+    "poster": "/posters/wildPlanet.jpg",
     "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
@@ -52,7 +52,7 @@
     "title": "Captain Bubbles",
     "category": "Kids",
     "description": "A cheerful pufferfish and his friends go on underwater adventures.",
-    "poster": "/posters/kids1.jpg",
+    "poster": "/posters/captainBubbles.jpg",
     "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
@@ -60,7 +60,7 @@
     "title": "Robo Buddies",
     "category": "Kids",
     "description": "Three little robots learn about friendship while fixing things around the workshop.",
-    "poster": "/posters/kids2.jpg",
+    "poster": "/posters/roboBuddies.jpg",
     "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   }
 ]
