@@ -1,0 +1,18 @@
+body {
+  background: var(--color-background);
+  color: var(--color-text);
+}
+
+.header {
+  background: var(--color-primary);
+  color: var(--color-secondary);
+}
+
+.tab.active {
+  background: var(--color-secondary);
+  color: var(--color-primary);
+}
+
+.card {
+  background: var(--color-card);
+}
