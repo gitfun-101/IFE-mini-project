@@ -1,0 +1,13 @@
+{
+  "id": "skyways",
+  "name": "SkyWays Airlines",
+  "logo": "✈",
+  "colors": {
+    "primary": "#0b2545",
+    "secondary": "#d4a017",
+    "background": "#f4f6fa",
+    "card": "#ffffff",
+    "text": "#1a1a1a"
+  },
+  "categories": ["Movies", "TV", "Kids"]
+}

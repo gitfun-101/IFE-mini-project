@@ -1,0 +1,13 @@
+{
+  "id": "sunrise",
+  "name": "Sunrise Air",
+  "logo": "☀",
+  "colors": {
+    "primary": "#e8590c",
+    "secondary": "#fff3e0",
+    "background": "#fffaf5",
+    "card": "#ffffff",
+    "text": "#2b1a10"
+  },
+  "categories": ["Movies", "TV"]
+}
