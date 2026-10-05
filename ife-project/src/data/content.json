@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Skyline Runner",
+    "category": "Movies",
+    "description": "A courier races across a neon city to deliver a package before sunrise.",
+    "poster": "/posters/movie1.jpg",
+    "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "id": 2,
+    "title": "The Last Lighthouse",
+    "category": "Movies",
+    "description": "A keeper on a remote island discovers the light is guiding something besides ships.",
+    "poster": "/posters/movie2.jpg",
+    "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "id": 3,
+    "title": "Desert Echoes",
+    "category": "Movies",
+    "description": "Two strangers cross the desert together and uncover a decades-old secret.",
+    "poster": "/posters/movie3.jpg",
+    "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "id": 4,
+    "title": "Office Orbit",
+    "category": "TV",
+    "description": "A comedy about a startup team that accidentally relocates to a space station.",
+    "poster": "/posters/tv1.jpg",
+    "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "id": 5,
+    "title": "Cold Case Cafe",
+    "category": "TV",
+    "description": "A retired detective solves mysteries from the corner table of a small-town cafe.",
+    "poster": "/posters/tv2.jpg",
+    "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "id": 6,
+    "title": "Wild Planet Weekly",
+    "category": "TV",
+    "description": "A documentary series exploring remarkable animals and the places they call home.",
+    "poster": "/posters/tv3.jpg",
+    "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "id": 7,
+    "title": "Captain Bubbles",
+    "category": "Kids",
+    "description": "A cheerful pufferfish and his friends go on underwater adventures.",
+    "poster": "/posters/kids1.jpg",
+    "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "id": 8,
+    "title": "Robo Buddies",
+    "category": "Kids",
+    "description": "Three little robots learn about friendship while fixing things around the workshop.",
+    "poster": "/posters/kids2.jpg",
+    "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  }
+]
