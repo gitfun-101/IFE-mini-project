@@ -15,7 +15,7 @@ export default function Catalog() {
     <>
       <Header />
 
-      <nav>
+      <nav className="tabs">
         {config.categories.map(cat => (
           <button
             key={cat}
